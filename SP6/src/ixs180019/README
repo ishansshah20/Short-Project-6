@@ -1,0 +1,15 @@
+Short Project 6
+
+Files in the folder;
+
+1. BFSOO.java
+2. Graph.java
+3. BFSCycle.java
+
+How to compile and run:
+
+1. Unzip the folder and generate the class files
+2. The main function is inside of the BFSCycle.java
+3. In the terminal, inside the unzipped folder, type following code to compile BFSCycle.java
+	- javac ./ixs180019/BFSCycle.java
+4. Type java ixs180019/BFSCycle for the code execution
